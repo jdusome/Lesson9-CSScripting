@@ -1,0 +1,26 @@
+{
+  "name": "Lesson 9",
+  "description": "Lesson 9 - OOP Cont...",
+  "main": "",
+  "keywords": [
+    "JavaScript"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/jdusome/Lesson4-CSScripting",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "Scripts/lib"
+  ],
+  "dependencies": {
+    "jquery": "2.2.4",
+    "bootstrap": "^3.3.7",
+    "font-awesome": "^4.7.0"
+  },
+  "authors": [
+    "Joshua Dusome <failnix@hotmail.com>"
+  ]
+}

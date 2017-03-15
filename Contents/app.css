@@ -1,0 +1,12 @@
+/*Custom CSS Lives here */
+
+body { padding-bottom: 70px; };
+
+.divider {
+    margin: 10px;
+    border: 10px solid black;
+}
+
+#FirstProjectImage {
+    max-height: 200px;
+}
